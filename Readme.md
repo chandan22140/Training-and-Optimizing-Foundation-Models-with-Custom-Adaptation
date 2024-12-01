@@ -17,5 +17,5 @@ This project demonstrates how to train and optimize lightweight foundation model
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/training-optimizing-foundation-models.git
+   git clone [https://github.com/yourusername/training-optimizing-foundation-models.git](https://github.com/chandan22140/Training-and-Optimizing-Foundation-Models-with-Custom-Adaptation.git)
    cd training-optimizing-foundation-models
