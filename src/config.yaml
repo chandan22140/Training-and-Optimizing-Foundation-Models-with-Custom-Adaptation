@@ -1,0 +1,8 @@
+dataset:
+  name: "lex_glue"  # Change to "financial_phrasebank" or "mimic" as needed
+  config: "scotus"  # Specific config if applicable
+  task: "classification"  # e.g., classification, summarization, question_answering
+
+model:
+  pretrained_model: "bert-base-uncased"
+  output_dir: "models/fine_tuned"
